@@ -131,7 +131,7 @@ header{
 /*Education
 ---------------------*/
 .edu{
-    background-image: url(images/education.jpg);
+    background-image: url(education.jpg);
     background-size: cover;
     background-position: top right;
     padding-bottom: 60px;
